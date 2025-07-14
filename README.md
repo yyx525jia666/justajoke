@@ -1,7 +1,7 @@
 # justajoke
 rt
-![](https://api.solstice23.top/countdown/?date=1667019600&type=1&formatType=4&fontSize=25&font=1&color=FFC0CB&left=%E8%B7%9D%E7%A6%BBCSPS2022%E8%BF%98%E6%9C%89&right=.)
 
+![](https://api.solstice23.top/countdown/?date=1667019600&type=1&formatType=4&fontSize=25&font=1&color=FFC0CB&left=%E8%B7%9D%E7%A6%BBCSPS2022%E8%BF%98%E6%9C%89&right=.)
 
 白嫖代码
 ```cpp
